@@ -8,5 +8,5 @@ def function(x: float) -> float:
 
     Returns:
         float: _description_
-    """    
+    """
     return x
